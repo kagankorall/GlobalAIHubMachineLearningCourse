@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Student Repo of Ahmet Kağan Koral
 ![](img/newlogo.png)
 
 **Course Date:** 22.03.2021-26.03.2021  
@@ -7,9 +7,10 @@
 **Email:** kagankoral@outlook.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+I did my homeworks in Jupyter Notebook.
 
 ## Project Name
-Description of your project.
+Introduction to Machine Learning
 
 ## Requirements
 ```
