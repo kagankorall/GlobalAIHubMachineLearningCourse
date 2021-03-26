@@ -6,7 +6,6 @@
 **Surname:** Koral 
 **Email:** kagankoral@outlook.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 I did my homeworks in Jupyter Notebook.
 
 ## Project Name
